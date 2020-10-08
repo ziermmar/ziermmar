@@ -3,7 +3,7 @@
 ## I'm a Husband, Father, Developer, and Tinkerer!
 - 🌱 I’m currently learning about cloud native stuff
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I fly model planes and drones, love to cook and overanalyze music
+- ⚡ Fun fact: I fly model airplanes and drones, love to cook and overanalyze music
 
 
 ### Languages and Tools:
